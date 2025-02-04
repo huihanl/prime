@@ -23,13 +23,13 @@ pip install -r requirements.txt
 ```
 Install robosuite.
 ```commandline
-git clone git@github.com:skybhh19/robosuite.git
+git clone https://github.com/skybhh19/robosuite.git
 cd robosuite
 pip install -e .
 ```
 Install robomimic.
 ```commandline
-git clone git@github.com:skybhh19/robomimic.git
+git clone https://github.com/skybhh19/robomimic.git
 de robomimic
 pip install -e .
 ```
