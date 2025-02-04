@@ -15,7 +15,7 @@ This is the codebase for the [**PRIME**](https://ut-austin-rpl.github.io/prime/)
 
 ## Installation
 ```commandline
-git clone git@github.com:skybhh19/prime.git
+git clone https://github.com/skybhh19/prime.git
 cd prime
 conda create -n prime python=3.7
 conda activate prime
